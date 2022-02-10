@@ -1,9 +1,6 @@
 ### Hi there 👋
 
-<!--
-**anton-jeran/anton-jeran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+This is **[Anton](https://anton-jeran.github.io/antonjeran.github.io/)**. 
 
 - 🔭 I’m currently a PhD candidate at the University of Maryland
 - 👯 I’m looking to collaborate on audio proecessing and machine learning
