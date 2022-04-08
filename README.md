@@ -8,7 +8,7 @@ This is **[Anton](https://anton-jeran.github.io/antonjeran.github.io/)**.
 - 😄 Pronouns: He/Him/His
 
 
-Visitor Count ![Visitor Count](https://profile-counter.glitch.me/anton-jeran/count.svg)
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anton-jeran&layout=compact)](https://github.com/Christmas/github-readme-stats)
 
