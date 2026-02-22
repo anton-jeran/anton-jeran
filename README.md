@@ -10,7 +10,6 @@ This is **[Anton](https://anton-jeran.github.io/antonjeran.github.io/)**.
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anton-jeran&layout=compact)](https://github.com/Christmas/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anton-jeran&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-
-![Christmas's GitHub stats](https://github-readme-stats.vercel.app/api?username=anton-jeran&show_icons=true&theme=tokyonight)
+![Anton’s GitHub stats](https://github-readme-stats.vercel.app/api?username=anton-jeran&show_icons=true&theme=tokyonight)
