@@ -13,10 +13,3 @@ This is **[Anton](https://anton-jeran.github.io/antonjeran.github.io/)**.
 
 
 
-![](https://komarev.com/ghpvc/?username=anton-jeran&label=Profile%20Views&color=blueviolet)
-
-![](https://img.shields.io/github/stars/anton-jeran/mesh2ir?style=social)
-
-![](https://img.shields.io/github/downloads/anton-jeran/mesh2ir/total)
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anton-jeran&theme=tokyonight)
