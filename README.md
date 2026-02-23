@@ -7,7 +7,7 @@ This is **[Anton](https://anton-jeran.github.io/antonjeran.github.io/)**.
 - 📫 How to reach me: jeran@umd.edu
 - 😄 Pronouns: He/Him/His
 
-
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=anton-jeran&theme=tokyonight)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=anton-jeran&theme=tokyonight)](https://git.io/streak-stats)
 
