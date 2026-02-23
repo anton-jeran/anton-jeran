@@ -9,5 +9,6 @@ This is **[Anton](https://anton-jeran.github.io/antonjeran.github.io/)**.
 
 
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=anton-jeran&theme=tokyonight)](https://git.io/streak-stats)
 
 ![Anton’s GitHub stats](https://github-readme-stats.vercel.app/api?username=anton-jeran&show_icons=true&theme=tokyonight&cache_seconds=86400)
